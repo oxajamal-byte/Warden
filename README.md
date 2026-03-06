@@ -44,25 +44,34 @@ Criticial = Likely malicious do not visit
 
 ## How To Run It 
 
-KALI 
+| KALI |
 
 git clone https://github.com/oxajamal-byte/Warden-.git
+
 cd Warden-
+
 pip install -r requirements.txt
+
 python3 main.py
 
-MacOS 
+| MacOS |
 
 git clone https://github.com/oxajamal-byte/Warden-.git
+
 cd Warden-
+
 pip3 install -r requirements.txt
+
 python3 main.py
 
-Windows 
+| Windows |
 
 git clone https://github.com/oxajamal-byte/Warden-.git
+
 cd Warden-
+
 pip install -r requirements.txt
+
 python main.py
 
 ## What's Coming Next 
