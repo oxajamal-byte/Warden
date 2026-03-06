@@ -1,4 +1,4 @@
-# Warden-
+# Warden
 
 A phishing detetcion tool that analyzes URLs and application names and returns a danger score from 1 to 10 with a plain English explanation of what could go wrong. 
 
