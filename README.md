@@ -46,33 +46,27 @@ Criticial = Likely malicious do not visit
 
 | KALI |
 
-git clone https://github.com/oxajamal-byte/Warden-.git
+git clone https://github.com/oxajamal-byte/Warden.git
 
-cd Warden-
+cd Warden
 
-pip install -r requirements.txt
-
-python3 main.py
+python3 Warden.py
 
 | MacOS |
 
-git clone https://github.com/oxajamal-byte/Warden-.git
+git clone https://github.com/oxajamal-byte/Warden.git
 
-cd Warden-
+cd Warden
 
-pip3 install -r requirements.txt
-
-python3 main.py
+python3 Warden.py
 
 | Windows |
 
-git clone https://github.com/oxajamal-byte/Warden-.git
+git clone https://github.com/oxajamal-byte/Warden.git
 
-cd Warden-
+cd Warden
 
-pip install -r requirements.txt
-
-python main.py
+python Warden.py
 
 ## What's Coming Next 
 -Browser extension version 
