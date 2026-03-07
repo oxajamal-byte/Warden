@@ -1,6 +1,6 @@
 # Warden
 
-A phishing detetcion tool that analyzes URLs and application names and returns a danger score from 1 to 10 with a plain English explanation of what could go wrong. 
+A phishing detetcion tool that analyzes URLs and application names and returns a danger score from 1 to 100 with a plain English explanation of what could go wrong. 
 
 ## The Problem 
 
@@ -13,7 +13,7 @@ This project was created to help detect and identify potential phishing attempts
 ## What It Does 
 
 - You enter a URL or app name
-- Warden returns a score from 1 (safe) to 10 (crtitical risk)
+- Warden returns a score from 1 (critical risk) to 100 (safe)
 - Plain English explanation of every red flag detected
 
   ## How It Works
